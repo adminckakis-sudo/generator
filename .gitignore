@@ -1,0 +1,22 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor / IDE directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Hasil generate/unduhan KTA (Jika tidak sengaja tersimpan di folder proyek)
+ID_Card_*.jpg
+ID_Card_*.png
+ID_Card_*.jpeg
